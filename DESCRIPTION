@@ -1,0 +1,13 @@
+Package: twowaytable
+Type: Package
+Title: Twoway Table Helpers
+Version: 0.1.0
+Authors@R: person("Max", "Masnick", email = "max@masnick.net",
+  role = c("aut", "cre"))
+Description: Create twoway tables for epidemiology and other purposes.
+    Similar to Stata's -tab- command.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports:
+  tidyverse
